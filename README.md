@@ -17,7 +17,7 @@ This repository contains my solutions to LeetCode problems solved using Python.
 - Python
 
 ## LeetCode Profile
-Add your LeetCode profile link here.
+https://leetcode.com/u/Morout_2/
 
 ---
 Started: June 2026 🚀
